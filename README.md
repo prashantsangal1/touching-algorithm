@@ -1,2 +1,2 @@
-# touching-algorithm
-detects when two objects are touching each other
+# p5.play-boilerplate
+Boiler plate for p5.play
